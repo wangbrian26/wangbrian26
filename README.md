@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [my website](www.wangbrian26.com)
+- 👨‍💻 All of my projects are available at [my website](http://www.wangbrian26.com)
 
 - 💬 Ask me about **escape rooms**!
 
